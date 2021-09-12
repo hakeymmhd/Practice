@@ -71,7 +71,7 @@ input:focus {
 }
 
 #lists button {
-  background: inherit;
+  background: green;
   border: 2px solid rgba(255,255,255, .5);
   color: rgba(255,255,255, .5);
 }
