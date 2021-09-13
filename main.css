@@ -74,10 +74,12 @@ input:focus {
   background: green;
   border: 2px solid rgba(255,255,255, .5);
   color: rgba(255,255,255, .5);
+  margin-left: 50px;
 }
 
-#completed button {
+#clearList {
   background-color: blue;
+  color: yellow;
 }
 /* make list containers flex */
 #to-do-list,  #completed {
