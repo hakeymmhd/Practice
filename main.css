@@ -76,7 +76,9 @@ input:focus {
   color: rgba(255,255,255, .5);
 }
 
-
+#completed button {
+  background-color: blue;
+}
 /* make list containers flex */
 #to-do-list,  #completed {
   display: flex;
